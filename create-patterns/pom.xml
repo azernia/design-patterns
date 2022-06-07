@@ -12,6 +12,7 @@
         <module>factory-method-01</module>
         <module>factory-method-02</module>
         <module>abstract-factory</module>
+        <module>builder-pattern</module>
     </modules>
 
     <dependencies>
