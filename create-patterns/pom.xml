@@ -13,6 +13,7 @@
         <module>factory-method-02</module>
         <module>abstract-factory</module>
         <module>builder-pattern</module>
+        <module>prototype-pattern</module>
     </modules>
 
     <dependencies>
